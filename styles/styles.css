@@ -151,12 +151,23 @@ height: 60px;
     padding: 80px 40px auto;
  }
  .ftr{
+    padding: 120px;
     max-width: 1600px;
     height: 348px;
     background-color: #001931;
  }
 .footer-content{
     border: 1px #469165;
-    display: flex;
     justify-content: space-between;
+    display: flex;
+    color: #FFFFFF;
+}
+.social-icon img{
+    margin-top: 16px;
+    padding: 1px;
+    stroke: #ffffff;
+    background-color: #FFFFFF;
+    padding: ;
+    border-radius: 50%;
+    height: 20px;
 }
