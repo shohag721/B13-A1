@@ -129,3 +129,34 @@ height: 60px;
     padding: 40px 0 auto;
     text-decoration: none;
  }
+
+ /* ready section  */
+
+ .ready{
+    max-width: 1600px;
+    height: 400px;
+    background-color: #627382;
+    display: flex;
+    align-items: center;
+ }
+ .ready-contener{
+    background-color: #F7F6F2;
+    max-width: 1360px;
+    height: 300px;
+    padding: 40px;
+    align-items: center;
+    justify-content: center;
+ }
+ .ready-think h2{
+    padding: 80px 40px auto;
+ }
+ .ftr{
+    max-width: 1600px;
+    height: 348px;
+    background-color: #001931;
+ }
+.footer-content{
+    border: 1px #469165;
+    display: flex;
+    justify-content: space-between;
+}
